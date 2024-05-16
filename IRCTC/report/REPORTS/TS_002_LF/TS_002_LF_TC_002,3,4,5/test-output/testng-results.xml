@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[method nameLOGIN_FIELDS]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameLOGIN_FIELDS]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameLOGIN_FIELDS]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameget_cap]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameLOGIN_FIELDS]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameget_cap]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameLOGIN_FIELDS]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameget_cap]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-15T15:28:56 IST" name="Suite" finished-at="2024-05-15T15:30:29 IST" duration-ms="93496">
+    <groups>
+    </groups>
+    <test started-at="2024-05-15T15:28:56 IST" name="Test" finished-at="2024-05-15T15:30:29 IST" duration-ms="93496">
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_005_LF_validate_forgot_account_details">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_005_LF_validate_forgot_account_details@2638011]" started-at="2024-05-15T15:29:04 IST" name="setup" finished-at="2024-05-15T15:29:12 IST" duration-ms="7979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN_FIELDS()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_005_LF_validate_forgot_account_details@2638011]" started-at="2024-05-15T15:29:12 IST" name="LOGIN_FIELDS" finished-at="2024-05-15T15:29:13 IST" duration-ms="577" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameLOGIN_FIELDS]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LOGIN_FIELDS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_005_LF_validate_forgot_account_details@2638011]" started-at="2024-05-15T15:29:13 IST" name="teardown" finished-at="2024-05-15T15:29:13 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_002_LF_VALID_MANDATORY_FIELD.TC_005_LF_validate_forgot_account_details -->
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_004_LF_without_provide_credential">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_004_LF_without_provide_credential@f79e]" started-at="2024-05-15T15:28:56 IST" name="setup" finished-at="2024-05-15T15:29:04 IST" duration-ms="8417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN_FIELDS()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_004_LF_without_provide_credential@f79e]" started-at="2024-05-15T15:29:04 IST" name="LOGIN_FIELDS" finished-at="2024-05-15T15:29:04 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameLOGIN_FIELDS]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LOGIN_FIELDS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_004_LF_without_provide_credential@f79e]" started-at="2024-05-15T15:29:04 IST" name="teardown" finished-at="2024-05-15T15:29:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_002_LF_VALID_MANDATORY_FIELD.TC_004_LF_without_provide_credential -->
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD@313b2ea6]" started-at="2024-05-15T15:30:01 IST" name="setup" finished-at="2024-05-15T15:30:09 IST" duration-ms="7982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN_FIELDS()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD@313b2ea6]" started-at="2024-05-15T15:30:09 IST" name="LOGIN_FIELDS" finished-at="2024-05-15T15:30:11 IST" duration-ms="2345" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameLOGIN_FIELDS]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LOGIN_FIELDS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD@313b2ea6]" started-at="2024-05-15T15:30:11 IST" name="teardown" finished-at="2024-05-15T15:30:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD@313b2ea6]" started-at="2024-05-15T15:30:11 IST" name="setup" finished-at="2024-05-15T15:30:21 IST" duration-ms="9166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="get_cap()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD@313b2ea6]" started-at="2024-05-15T15:30:21 IST" name="get_cap" finished-at="2024-05-15T15:30:29 IST" duration-ms="8489" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameget_cap]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- get_cap -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD@313b2ea6]" started-at="2024-05-15T15:30:29 IST" name="teardown" finished-at="2024-05-15T15:30:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD -->
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_002_LF_INVALID_MANDATORY_FIELD2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_002_LF_INVALID_MANDATORY_FIELD2@6ff29830]" started-at="2024-05-15T15:29:13 IST" name="setup" finished-at="2024-05-15T15:29:21 IST" duration-ms="8450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN_FIELDS()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_002_LF_INVALID_MANDATORY_FIELD2@6ff29830]" started-at="2024-05-15T15:29:21 IST" name="LOGIN_FIELDS" finished-at="2024-05-15T15:29:23 IST" duration-ms="1309" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameLOGIN_FIELDS]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LOGIN_FIELDS -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_002_LF_INVALID_MANDATORY_FIELD2@6ff29830]" started-at="2024-05-15T15:29:23 IST" name="setup" finished-at="2024-05-15T15:29:31 IST" duration-ms="8733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_002_LF_INVALID_MANDATORY_FIELD2@6ff29830]" started-at="2024-05-15T15:29:23 IST" name="teardown" finished-at="2024-05-15T15:29:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="get_cap()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_002_LF_INVALID_MANDATORY_FIELD2@6ff29830]" started-at="2024-05-15T15:29:31 IST" name="get_cap" finished-at="2024-05-15T15:29:39 IST" duration-ms="7244" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameget_cap]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- get_cap -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_002_LF_INVALID_MANDATORY_FIELD2@6ff29830]" started-at="2024-05-15T15:29:39 IST" name="teardown" finished-at="2024-05-15T15:29:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_002_LF_VALID_MANDATORY_FIELD.TC_002_LF_INVALID_MANDATORY_FIELD2 -->
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_003_LF_VALID_password_FIELD2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_003_LF_VALID_password_FIELD2@6a2b953e]" started-at="2024-05-15T15:29:39 IST" name="setup" finished-at="2024-05-15T15:29:44 IST" duration-ms="5700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN_FIELDS()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_003_LF_VALID_password_FIELD2@6a2b953e]" started-at="2024-05-15T15:29:44 IST" name="LOGIN_FIELDS" finished-at="2024-05-15T15:29:45 IST" duration-ms="757" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameLOGIN_FIELDS]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LOGIN_FIELDS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_003_LF_VALID_password_FIELD2@6a2b953e]" started-at="2024-05-15T15:29:45 IST" name="teardown" finished-at="2024-05-15T15:29:45 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_003_LF_VALID_password_FIELD2@6a2b953e]" started-at="2024-05-15T15:29:45 IST" name="setup" finished-at="2024-05-15T15:29:53 IST" duration-ms="8389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="get_cap()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_003_LF_VALID_password_FIELD2@6a2b953e]" started-at="2024-05-15T15:29:53 IST" name="get_cap" finished-at="2024-05-15T15:30:01 IST" duration-ms="7618" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameget_cap]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- get_cap -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_003_LF_VALID_password_FIELD2@6a2b953e]" started-at="2024-05-15T15:30:01 IST" name="teardown" finished-at="2024-05-15T15:30:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_002_LF_VALID_MANDATORY_FIELD.TC_003_LF_VALID_password_FIELD2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

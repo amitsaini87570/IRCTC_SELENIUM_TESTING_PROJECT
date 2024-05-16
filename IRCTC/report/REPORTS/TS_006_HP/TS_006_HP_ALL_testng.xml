@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TS_006_HOME_PAGE.TS_006_HP_TC_005_SUPPORTED_ENV"/>
+      <class name="TS_006_HOME_PAGE.TS_006_HP_TC_004_UI"/>
+      <class name="TS_006_HOME_PAGE.TS_006_HP_TC_002_SEARCH_FUNCTIONALITY_DISPLAYED"/>
+      <class name="TS_006_HOME_PAGE.TS_006_HP_TC_006_URL_TITLE"/>
+      <class name="TS_006_HOME_PAGE.TS_006_HP_TC_003_FLIGHT_OPTIONS"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

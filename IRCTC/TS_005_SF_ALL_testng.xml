@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	
+		
+	<listeners>
+		<listener class-name="FAIL_SCREENSHOT.LISTENERS"></listener>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+	</listeners>
+	
+	
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_002_NON_EXISTING_PLACE2"/>
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_008_supported_environment"/>
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_004_SEARCH_AFTER_LOGIN"/>
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_006_url_title"/>
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_001_EXISTING_PLACE"/>
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_007_ui"/>
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_005_placeholder_sf"/>
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_003_DONT_ENTER_PLACE_NAME"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

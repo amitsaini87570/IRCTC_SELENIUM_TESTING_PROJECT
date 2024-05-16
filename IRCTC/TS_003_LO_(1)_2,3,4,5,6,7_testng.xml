@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	
+	
+	<listeners>
+		<listener class-name="FAIL_SCREENSHOT.LISTENERS"></listener>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+	</listeners>
+	
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TS_003_LOGOUT_FUNCTIONALITY.TS_003_LO_TC_005_login_page_url_title"/>
+      <class name="TS_003_LOGOUT_FUNCTIONALITY.TS_003_LO_TC_006_login_page_ui"/>
+      <class name="TS_003_LOGOUT_FUNCTIONALITY.TS_003_LO_TC_002_back_after_LOGOUT2"/>
+      <class name="TS_003_LOGOUT_FUNCTIONALITY.TS_003_LO_TC_003_logout_option_displayed_after_logout_"/>
+      <class name="TS_003_LOGOUT_FUNCTIONALITY.TS_003_LO_TC_007_login_page_supported_env"/>
+      <class name="TS_003_LOGOUT_FUNCTIONALITY.TS_003_LO_TC_001_LOGOUT"/>
+      <class name="TS_003_LOGOUT_FUNCTIONALITY.TS_003_LO_TC_004_login_immeditely_after_logout"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

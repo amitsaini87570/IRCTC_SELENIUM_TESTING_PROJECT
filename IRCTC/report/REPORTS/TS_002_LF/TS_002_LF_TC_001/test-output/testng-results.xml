@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-15T14:09:13 IST" name="Suite" finished-at="2024-05-15T14:09:38 IST" duration-ms="25104">
+    <groups>
+    </groups>
+    <test started-at="2024-05-15T14:09:13 IST" name="Test" finished-at="2024-05-15T14:09:38 IST" duration-ms="25104">
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD@57a3af25]" started-at="2024-05-15T14:09:13 IST" name="setup" finished-at="2024-05-15T14:09:24 IST" duration-ms="10950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN_FIELDS()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD@57a3af25]" started-at="2024-05-15T14:09:24 IST" name="LOGIN_FIELDS" finished-at="2024-05-15T14:09:24 IST" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LOGIN_FIELDS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD@57a3af25]" started-at="2024-05-15T14:09:24 IST" name="teardown" finished-at="2024-05-15T14:09:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD@57a3af25]" started-at="2024-05-15T14:09:24 IST" name="setup" finished-at="2024-05-15T14:09:32 IST" duration-ms="7394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="get_cap()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD@57a3af25]" started-at="2024-05-15T14:09:32 IST" name="get_cap" finished-at="2024-05-15T14:09:38 IST" duration-ms="6006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_cap -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD@57a3af25]" started-at="2024-05-15T14:09:38 IST" name="teardown" finished-at="2024-05-15T14:09:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_002_LF_VALID_MANDATORY_FIELD.TC_001_LF_VALID_MANDATORY_FIELD -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[method nameget_cap]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameLOGIN_FIELDS]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameLOGIN_FIELDS]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameLOGIN_FIELDS]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameLOGIN_FIELDS]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameLOGIN_FIELDS]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameLOGIN_FIELDS]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-15T16:54:08 IST" name="Suite" finished-at="2024-05-15T16:55:24 IST" duration-ms="75973">
+    <groups>
+    </groups>
+    <test started-at="2024-05-15T16:54:08 IST" name="Test" finished-at="2024-05-15T16:55:24 IST" duration-ms="75973">
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_010_LF_login_page_ui">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_010_LF_login_page_ui@6a2b953e]" started-at="2024-05-15T16:54:40 IST" name="setup" finished-at="2024-05-15T16:54:45 IST" duration-ms="5037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN_FIELDS()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_010_LF_login_page_ui@6a2b953e]" started-at="2024-05-15T16:54:45 IST" name="LOGIN_FIELDS" finished-at="2024-05-15T16:54:45 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameLOGIN_FIELDS]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LOGIN_FIELDS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_010_LF_login_page_ui@6a2b953e]" started-at="2024-05-15T16:54:45 IST" name="teardown" finished-at="2024-05-15T16:54:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_002_LF_VALID_MANDATORY_FIELD.TC_010_LF_login_page_ui -->
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_007_LF_validate_BACK_AFTER_LOGIN">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_007_LF_validate_BACK_AFTER_LOGIN@1f59a598]" started-at="2024-05-15T16:54:08 IST" name="setup" finished-at="2024-05-15T16:54:20 IST" duration-ms="11237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="get_cap()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_007_LF_validate_BACK_AFTER_LOGIN@1f59a598]" started-at="2024-05-15T16:54:20 IST" name="get_cap" finished-at="2024-05-15T16:54:25 IST" duration-ms="5456" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameget_cap]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- get_cap -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_007_LF_validate_BACK_AFTER_LOGIN@1f59a598]" started-at="2024-05-15T16:54:25 IST" name="teardown" finished-at="2024-05-15T16:54:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_007_LF_validate_BACK_AFTER_LOGIN@1f59a598]" started-at="2024-05-15T16:54:25 IST" name="setup" finished-at="2024-05-15T16:54:35 IST" duration-ms="9660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN_FIELDS()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_007_LF_validate_BACK_AFTER_LOGIN@1f59a598]" started-at="2024-05-15T16:54:35 IST" name="LOGIN_FIELDS" finished-at="2024-05-15T16:54:40 IST" duration-ms="5153" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameLOGIN_FIELDS]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LOGIN_FIELDS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_007_LF_validate_BACK_AFTER_LOGIN@1f59a598]" started-at="2024-05-15T16:54:40 IST" name="teardown" finished-at="2024-05-15T16:54:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_002_LF_VALID_MANDATORY_FIELD.TC_007_LF_validate_BACK_AFTER_LOGIN -->
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_009_LF_login_page_url_title">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_009_LF_login_page_url_title@623a8092]" started-at="2024-05-15T16:55:13 IST" name="setup" finished-at="2024-05-15T16:55:23 IST" duration-ms="9940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN_FIELDS()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_009_LF_login_page_url_title@623a8092]" started-at="2024-05-15T16:55:23 IST" name="LOGIN_FIELDS" finished-at="2024-05-15T16:55:24 IST" duration-ms="1272" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameLOGIN_FIELDS]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LOGIN_FIELDS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_009_LF_login_page_url_title@623a8092]" started-at="2024-05-15T16:55:24 IST" name="teardown" finished-at="2024-05-15T16:55:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_002_LF_VALID_MANDATORY_FIELD.TC_009_LF_login_page_url_title -->
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_011_LF_login_page_supported_env">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_011_LF_login_page_supported_env@313b2ea6]" started-at="2024-05-15T16:54:45 IST" name="setup" finished-at="2024-05-15T16:54:53 IST" duration-ms="7929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN_FIELDS()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_011_LF_login_page_supported_env@313b2ea6]" started-at="2024-05-15T16:54:53 IST" name="LOGIN_FIELDS" finished-at="2024-05-15T16:54:54 IST" duration-ms="1117" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameLOGIN_FIELDS]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LOGIN_FIELDS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_011_LF_login_page_supported_env@313b2ea6]" started-at="2024-05-15T16:54:54 IST" name="teardown" finished-at="2024-05-15T16:54:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_002_LF_VALID_MANDATORY_FIELD.TC_011_LF_login_page_supported_env -->
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_008_LF_password_toggle_hide">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_008_LF_password_toggle_hide@548e6d58]" started-at="2024-05-15T16:55:02 IST" name="setup" finished-at="2024-05-15T16:55:12 IST" duration-ms="10227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN_FIELDS()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_008_LF_password_toggle_hide@548e6d58]" started-at="2024-05-15T16:55:12 IST" name="LOGIN_FIELDS" finished-at="2024-05-15T16:55:13 IST" duration-ms="905" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameLOGIN_FIELDS]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LOGIN_FIELDS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_008_LF_password_toggle_hide@548e6d58]" started-at="2024-05-15T16:55:13 IST" name="teardown" finished-at="2024-05-15T16:55:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_002_LF_VALID_MANDATORY_FIELD.TC_008_LF_password_toggle_hide -->
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_006_LF_validate_PLACEHOLDER">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_006_LF_validate_PLACEHOLDER@2f465398]" started-at="2024-05-15T16:54:54 IST" name="setup" finished-at="2024-05-15T16:55:02 IST" duration-ms="7168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LOGIN_FIELDS()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_006_LF_validate_PLACEHOLDER@2f465398]" started-at="2024-05-15T16:55:02 IST" name="LOGIN_FIELDS" finished-at="2024-05-15T16:55:02 IST" duration-ms="547" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameLOGIN_FIELDS]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LOGIN_FIELDS -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_002_LF_VALID_MANDATORY_FIELD.TC_006_LF_validate_PLACEHOLDER@2f465398]" started-at="2024-05-15T16:55:02 IST" name="teardown" finished-at="2024-05-15T16:55:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_002_LF_VALID_MANDATORY_FIELD.TC_006_LF_validate_PLACEHOLDER -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

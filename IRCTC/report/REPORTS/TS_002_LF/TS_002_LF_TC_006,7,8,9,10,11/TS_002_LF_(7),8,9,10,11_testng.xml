@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	
+	<listeners>
+		<listener class-name="FAIL_SCREENSHOT.LISTENERS"></listener>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+	</listeners>
+	
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_007_LF_validate_BACK_AFTER_LOGIN"/>
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_010_LF_login_page_ui"/>
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_011_LF_login_page_supported_env"/>
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_006_LF_validate_PLACEHOLDER"/>
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_008_LF_password_toggle_hide"/>
+      <class name="TS_002_LF_VALID_MANDATORY_FIELD.TC_009_LF_login_page_url_title"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

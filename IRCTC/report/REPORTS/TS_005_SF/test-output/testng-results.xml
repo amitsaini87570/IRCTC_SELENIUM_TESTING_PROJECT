@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameget_cap]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+    <line>
+      <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+    </line>
+    <line>
+      <![CDATA[method status1]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-16T17:01:38 IST" name="Suite" finished-at="2024-05-16T17:09:48 IST" duration-ms="490316">
+    <groups>
+    </groups>
+    <test started-at="2024-05-16T17:01:38 IST" name="Test" finished-at="2024-05-16T17:09:48 IST" duration-ms="490316">
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_005_placeholder_sf">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_005_placeholder_sf@60015ef5]" started-at="2024-05-16T17:05:42 IST" name="setup" finished-at="2024-05-16T17:07:27 IST" duration-ms="105413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TS_005_SF_TC_001_EXISTING_PLACE_NAME()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_005_placeholder_sf@60015ef5]" started-at="2024-05-16T17:07:28 IST" name="TS_005_SF_TC_001_EXISTING_PLACE_NAME" finished-at="2024-05-16T17:07:29 IST" duration-ms="601" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TS_005_SF_TC_001_EXISTING_PLACE_NAME -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_005_placeholder_sf@60015ef5]" started-at="2024-05-16T17:07:29 IST" name="teardown" finished-at="2024-05-16T17:07:29 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_005_placeholder_sf -->
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_008_supported_environment">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_008_supported_environment@7c83dc97]" started-at="2024-05-16T17:01:51 IST" name="setup" finished-at="2024-05-16T17:02:02 IST" duration-ms="10640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TS_005_SF_TC_001_EXISTING_PLACE_NAME()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_008_supported_environment@7c83dc97]" started-at="2024-05-16T17:02:02 IST" name="TS_005_SF_TC_001_EXISTING_PLACE_NAME" finished-at="2024-05-16T17:02:02 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TS_005_SF_TC_001_EXISTING_PLACE_NAME -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_008_supported_environment@7c83dc97]" started-at="2024-05-16T17:02:02 IST" name="teardown" finished-at="2024-05-16T17:02:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_008_supported_environment -->
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_002_NON_EXISTING_PLACE2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_002_NON_EXISTING_PLACE2@63070bab]" started-at="2024-05-16T17:01:38 IST" name="setup" finished-at="2024-05-16T17:01:47 IST" duration-ms="8712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TS_005_SF_TC_001_EXISTING_PLACE_NAME()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_002_NON_EXISTING_PLACE2@63070bab]" started-at="2024-05-16T17:01:47 IST" name="TS_005_SF_TC_001_EXISTING_PLACE_NAME" finished-at="2024-05-16T17:01:51 IST" duration-ms="4189" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TS_005_SF_TC_001_EXISTING_PLACE_NAME -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_002_NON_EXISTING_PLACE2@63070bab]" started-at="2024-05-16T17:01:51 IST" name="teardown" finished-at="2024-05-16T17:01:51 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_002_NON_EXISTING_PLACE2 -->
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_007_ui">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_007_ui@55740540]" started-at="2024-05-16T17:04:36 IST" name="setup" finished-at="2024-05-16T17:05:37 IST" duration-ms="61332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TS_005_SF_TC_001_EXISTING_PLACE_NAME()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_007_ui@55740540]" started-at="2024-05-16T17:05:38 IST" name="TS_005_SF_TC_001_EXISTING_PLACE_NAME" finished-at="2024-05-16T17:05:41 IST" duration-ms="2804" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TS_005_SF_TC_001_EXISTING_PLACE_NAME -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_007_ui@55740540]" started-at="2024-05-16T17:05:41 IST" name="teardown" finished-at="2024-05-16T17:05:41 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_007_ui -->
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_001_EXISTING_PLACE">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_001_EXISTING_PLACE@37f1104d]" started-at="2024-05-16T17:03:24 IST" name="setup" finished-at="2024-05-16T17:03:55 IST" duration-ms="30690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TS_005_SF_TC_001_EXISTING_PLACE_NAME()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_001_EXISTING_PLACE@37f1104d]" started-at="2024-05-16T17:03:55 IST" name="TS_005_SF_TC_001_EXISTING_PLACE_NAME" finished-at="2024-05-16T17:04:35 IST" duration-ms="39620" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TS_005_SF_TC_001_EXISTING_PLACE_NAME -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_001_EXISTING_PLACE@37f1104d]" started-at="2024-05-16T17:04:35 IST" name="teardown" finished-at="2024-05-16T17:04:36 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_001_EXISTING_PLACE -->
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_006_url_title">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_006_url_title@740773a3]" started-at="2024-05-16T17:02:59 IST" name="setup" finished-at="2024-05-16T17:03:24 IST" duration-ms="25582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TS_005_SF_TC_001_EXISTING_PLACE_NAME()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_006_url_title@740773a3]" started-at="2024-05-16T17:03:24 IST" name="TS_005_SF_TC_001_EXISTING_PLACE_NAME" finished-at="2024-05-16T17:03:24 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TS_005_SF_TC_001_EXISTING_PLACE_NAME -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_006_url_title@740773a3]" started-at="2024-05-16T17:03:24 IST" name="teardown" finished-at="2024-05-16T17:03:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_006_url_title -->
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_004_SEARCH_AFTER_LOGIN">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_004_SEARCH_AFTER_LOGIN@7748410a]" started-at="2024-05-16T17:02:02 IST" name="setup" finished-at="2024-05-16T17:02:14 IST" duration-ms="12610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="get_cap()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_004_SEARCH_AFTER_LOGIN@7748410a]" started-at="2024-05-16T17:02:14 IST" name="get_cap" finished-at="2024-05-16T17:02:40 IST" duration-ms="25792" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameget_cap]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- get_cap -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_004_SEARCH_AFTER_LOGIN@7748410a]" started-at="2024-05-16T17:02:40 IST" name="teardown" finished-at="2024-05-16T17:02:40 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_004_SEARCH_AFTER_LOGIN@7748410a]" started-at="2024-05-16T17:02:40 IST" name="setup" finished-at="2024-05-16T17:02:58 IST" duration-ms="18080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TS_005_SF_TC_001_EXISTING_PLACE_NAME()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_004_SEARCH_AFTER_LOGIN@7748410a]" started-at="2024-05-16T17:02:58 IST" name="TS_005_SF_TC_001_EXISTING_PLACE_NAME" finished-at="2024-05-16T17:02:58 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TS_005_SF_TC_001_EXISTING_PLACE_NAME -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_004_SEARCH_AFTER_LOGIN@7748410a]" started-at="2024-05-16T17:02:59 IST" name="teardown" finished-at="2024-05-16T17:02:59 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_004_SEARCH_AFTER_LOGIN -->
+      <class name="TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_003_DONT_ENTER_PLACE_NAME">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_003_DONT_ENTER_PLACE_NAME@2f54a33d]" started-at="2024-05-16T17:07:29 IST" name="setup" finished-at="2024-05-16T17:09:41 IST" duration-ms="132661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TS_005_SF_TC_001_EXISTING_PLACE_NAME()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_003_DONT_ENTER_PLACE_NAME@2f54a33d]" started-at="2024-05-16T17:09:42 IST" name="TS_005_SF_TC_001_EXISTING_PLACE_NAME" finished-at="2024-05-16T17:09:48 IST" duration-ms="6440" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method nameTS_005_SF_TC_001_EXISTING_PLACE_NAME]]>
+            </line>
+            <line>
+              <![CDATA[method status1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TS_005_SF_TC_001_EXISTING_PLACE_NAME -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_003_DONT_ENTER_PLACE_NAME@2f54a33d]" started-at="2024-05-16T17:09:48 IST" name="teardown" finished-at="2024-05-16T17:09:48 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TS_005_SEARCH_FUNCTIONALITY.TS_005_SF_TC_003_DONT_ENTER_PLACE_NAME -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
